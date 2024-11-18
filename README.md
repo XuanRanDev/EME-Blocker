@@ -1,4 +1,6 @@
 # **EME-Blocker**  
+[中文文档](README-CN.md)
+
 A lightweight browser extension designed to disable the **Encrypted Media Extensions (EME)** API in modern web browsers. This extension is useful for users who want to prevent websites from accessing DRM-protected media playback functionality through EME.
 
 ---
@@ -84,7 +86,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ---
 
 ## **License**  
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [GPL3.0 License](LICENSE).  
 
 ---
 
